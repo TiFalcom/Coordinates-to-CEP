@@ -13,9 +13,9 @@ It's required
 
 To use the program:
 <ol>
-  <li>1 - Donwload the file cood-to-cep.py<li\>
-  <li>2 - Create a file "EXPORT_CEPS.CSV" in the same folder the file you want to convert is saved.<li\>
-  <li>3 - Execute the following command on bash.<li\>
+  <li>Donwload the file cood-to-cep.py<li\>
+  <li>Create a file "EXPORT_CEPS.CSV" in the same folder the file you want to convert is saved.<li\>
+  <li>Execute the following command on bash.<li\>
   ```bash
     python path's cood-to-cep.py\cood-to-cep.py
   ```
@@ -23,17 +23,17 @@ To use the program:
   ```bash
     python C:\Users\diego\Downloads\cood-to-cep.py
   ```
-  <li>4 - Complete with the folder path where geolocation is saved.<li\>
+  <li>Complete with the folder path where geolocation is saved.<li\>
   Exemple: if your file is saved on folder C:\Users\TiFalcom\Downloads, you will complete with the following:
   ```bash
     Insert the file path, without file name: C:\Users\TiFalcom\Downloads
   ```
-  <li>5 - Complete with the entire file name where geolocation is saved.<li\>
+  <li>Complete with the entire file name where geolocation is saved.<li\>
   Exemple: if your file name is COORDS.CSV, you will complete with the following:
   ```bash
     Insert the file full name: COORDS.CSV
   ```
-  <li>6 - After completing those two informations the program will run and save the CEPS on file EXPORT_CEPS.CSV(depending on the number of observations, it might take a while).<li\>
+  <li>After completing those two informations the program will run and save the CEPS on file EXPORT_CEPS.CSV(depending on the number of observations, it might take a while).<li\>
 <ol\>
 ## Roadmap
 The next steps are:
