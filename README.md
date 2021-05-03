@@ -4,8 +4,8 @@ Coordinates-to-CEP is a program to convert geolocation into Brazilian CEP number
 
 ## Requirements
 <ol>
-[geopy](https://pypi.org/project/geopy/) - Used to convert geolocalization to Address/CEP.
-[pandas](https://pypi.org/project/pandas/) - Used to Import - Manipulate - Export data.
+  <li>[geopy](https://pypi.org/project/geopy/) - Used to convert geolocalization to Address/CEP.</li>
+  <li>[pandas](https://pypi.org/project/pandas/) - Used to Import - Manipulate - Export data.</li>
 </ol>
 
 ## Usage
@@ -34,7 +34,9 @@ To use the program:
   ```
   <li>After completing those two informations the program will run and save the CEPS on file EXPORT_CEPS.CSV(depending on the number of observations, it might take a while).</li>
 </ol>
+
 ## Roadmap
+
 The next steps are:
   1 - Create a path and file name validation.
   2 - Create the out file if it does not exists.
