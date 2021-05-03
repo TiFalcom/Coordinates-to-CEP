@@ -43,9 +43,9 @@ To use the program:
   <li>After completing those two informations the program will run and save the CEPS on file EXPORT_CEPS.CSV(depending on the number of observations, it might take a while).</li>
 </ol>
 
-## Suport
+## Support
 
-You can get suport in the following e-mail: diego.giovanini4@gmail.com
+You can get support in the following e-mail: diego.giovanini4@gmail.com
 
 ## Roadmap
 
