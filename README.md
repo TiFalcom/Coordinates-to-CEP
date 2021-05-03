@@ -45,7 +45,7 @@ To use the program:
 
 ## Support
 
-You can get support in the following e-mail: diego.giovanini4@gmail.com
+For support send an e-mail to diego.giovanini4@gmail.com
 
 ## Roadmap
 
