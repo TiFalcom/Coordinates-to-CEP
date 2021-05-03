@@ -23,7 +23,7 @@ To use the program:
   Exemple: if your program is saved on folder C:\Users\TiFalcom\Downloads, the command will be:
   
   ```bash
-    python C:\Users\diego\Downloads\cood-to-cep.py
+    python C:\Users\TiFalcom\Downloads\cood-to-cep.py
   ```
   
   <li>Complete with the folder path where geolocation is saved.</li>
