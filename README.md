@@ -38,5 +38,7 @@ To use the program:
 ## Roadmap
 
 The next steps are:
-  1 - Create a path and file name validation.
-  2 - Create the out file if it does not exists.
+<ol>
+  <li>Create a path and file name validation.</li>
+  <li>Create the out file if it does not exists.</li>
+</ol>
